@@ -17,3 +17,14 @@ NO	字段名称	数据类型	字段描述
 16	previous	Int	在本次活动之前，与该客户交流过的次数
 17	poutcome	String	上一次活动的结果
 18	y	Int	预测客户是否会订购定期存款业务
+
+ID删除
+JOB 普通分类
+marital 普通分类
+education 有序分类
+default 01分类
+houseing 01分类
+loan 01分类
+contact 普通分类
+month+day 日期格式
+上次活动的成果 普通分类
